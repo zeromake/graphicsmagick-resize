@@ -1,0 +1,15 @@
+build
+.xmake
+.vscode/*.json
+.DS_Store
+.idea
+*.a
+*.o
+*.so
+*.exe
+
+!.vscode/launch.json
+dist
+.xrepo
+project.xcworkspace
+xcuserdata
